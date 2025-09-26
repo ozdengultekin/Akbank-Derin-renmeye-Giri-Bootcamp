@@ -8,7 +8,7 @@ Bu repo, Global AI Hub Python  Derin Öğrenmeye Giriş Bootcamp ı sürecinde b
 
 <img width="860" height="466" alt="image" src="https://github.com/user-attachments/assets/7ca64f5e-de19-4f8e-a2b2-657f0cf21f5a" />
  
-
+<br><br>
 Projenin amacından söz etmeden önce inceleyeceğimiz hastalık hakkında genel bir bilgi sahibi olalım. 
 Pnömoni, öncelikle alveoller olarak bilinen küçük hava keseciklerini etkileyen bir akciğer iltihaplanması durumudur. Belirtiler genellikle verimli veya kuru öksürük, göğüs ağrısı, ateş ve nefes darlığı gibi bir kombinasyonu içerir. Durumun şiddeti değişkenlik gösterebilir. Pnömoni genellikle virüsler veya bakterilerle enfeksiyon nedeniyle ortaya çıkar; daha az yaygın olarak diğer mikroorganizmalar, belirli ilaçlar veya otoimmün hastalıklar gibi durumlar da sebep olabilir. Risk faktörleri arasında kistik fibroz, kronik obstrüktif akciğer hastalığı (KOAH), astım, diyabet, kalp yetmezliği, sigara öyküsü, inme sonrası öksürememe gibi durumlar ve zayıf bağışıklık sistemi bulunur. Tanı genellikle belirtiler ve fizik muayene temel alınarak konur. Göğüs röntgeni, kan testleri ve balgam kültürü tanıyı doğrulamaya yardımcı olabilir.
 
