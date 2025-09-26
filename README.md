@@ -152,13 +152,13 @@ Düzleştirme katmanında dropout değeri 0.3 e yükseltilmiştir. Bunun amacı,
 
 # GELECEK ÇALIŞMALAR İLE İLGİLİ ÖNERİLER¶
 
-## Mevcut Durum ve Sınırlamalar¶
+## Mevcut Durum ve Sınırlamalar
 
 Eğitim veri setindeki sınıf dengesizlikleri, özellikle test setinde model doğruluğunu etkilemiştir.
 Farklı yaş gruplarına ait göğüs röntgenleri (yetişkin vs. çocuk) görsel dağılım ve özellik bakımından farklılık gösterir. Bu durum, tek bir modelin her iki dağılımı aynı anda öğrenmesini zorlaştırabilir.
 Gelecek Çalışmalar için Öneriler
 
-##Veri Setinin Çeşitlendirilmesi:
+## Veri Setinin Çeşitlendirilmesi:
 
 Eğitim setine daha fazla örnek eklenmesi ve sınıf dağılımının dengelenmesi, modelin genelleme kapasitesini artıracaktır.
 ## Transfer Learning ve Fine-Tuning:
@@ -169,11 +169,19 @@ Bu yaklaşım sayesinde model, iki farklı dağılımdaki görselleri ayrı ayr�
 Modelin Genelleme Yeteneğinin Artırılması:
 Veri augmentasyonu (dönme, ölçekleme, parlaklık değişimi gibi) ve düzenleme teknikleri (dropout, early stopping) ile overfitting riski azaltılabilir.
 Sınıf dengesizlikleri ve yaş grubu farklılıkları göz önünde bulundurularak performans metrikleri ayrı ayrı raporlanabilir.
+
 # SONUÇ
 
 Bu model, hem yetişkin hem çocuk göğüs röntgenlerinde pnömoni tespitinde başarılı bir başlangıç sağlamaktadır. Ancak, veri çeşitlendirmesi, transfer learning ve fine-tuning uygulamaları ile modelin doğruluk ve genelleme kapasitesi ileri çalışmalarda artırılabilir.
 
-# Kaggle Linki [MODELLEME (CNN) - Kaggle Notebook](https://www.kaggle.com/code/zdengltekin/pneumonia-detection-using-cnn-combining2-dataset/notebook#MODELLEME-(CNN))
+# KAGGLE NOTEBOOK LİNKİ [MODELLEME (CNN) - Kaggle Notebook](https://www.kaggle.com/code/zdengltekin/pneumonia-detection-using-cnn-combining2-dataset/notebook#MODELLEME-(CNN))
+
+Projeme kaggle notebooktanda inceleyebilirsiniz. Projemi beğendiyseniz geliştirme ile ilgili önerileriniz, tavsiyeleriniz olursa bu platform üzerinde benimle paylaşabilir ve destek olmak isterseniz projemi oylayabilirisiniz.
+
+
+# TEŞEKKÜR
+
+Bu bootcamp süresince bizleri destekleyen tüm eğitmenlerimize ve mentörlerimize teşekkür ederim. 
 
 
 
