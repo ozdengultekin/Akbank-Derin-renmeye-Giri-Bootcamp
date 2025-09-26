@@ -1,1 +1,1 @@
-# Akbank-Derin-renmeye-Giri-Bootcamp
+# Akbank-Derin-Orenmeye-Giris-Bootcamp
