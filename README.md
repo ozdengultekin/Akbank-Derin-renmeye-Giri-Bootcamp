@@ -182,7 +182,7 @@ Projeme kaggle notebooktanda inceleyebilirsiniz. Projemi beğendiyseniz gelişti
 
 # TEŞEKKÜR
 
-Bu bootcamp süresince bizleri destekleyen tüm eğitmenlerimize ve mentörlerimize teşekkür ederim. 
+Bu bootcamp süresince bizleri destekleyen tüm eğitmenlerimize ve mentörlerimize çabaları ve emekleri için teşekkür ederim. 
 
 
 
