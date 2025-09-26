@@ -54,6 +54,7 @@ Verilerin dağılımı yukarıda belirttiğim şekilde yapılmış olup, veri da
 
 5. İki veri setinin train, validation ve test verisi için de mantıklı bir stateji izlenmiştir. Train seti birleştirilirken shuffle işlemi uygulanmıştır. Bunun uygulanmasındaki temel amaç, modelin veri setinin örüntüsünü öğrenirken genelleme gücünü artırmak, sıralı bağımlılıklardan kaçınmak ve  overfitting’i azaltmaktır.<br>
 Ayrıca iki veri setine ait test ve validation verileri birleştirilirken sıralama önce  Chest X-Ray & Pneumonia veri setinin test ve validation datası sonra Chest X-Ray Covid-19 & Pneumonia olacak şekilde bırakılmıştır. Aynı model aynı veri üzerinde farklı sonuçlar üretilmesini engellemektir. Bu şekilde modelin hem yetişkin hem de çocuk göğüs verilerinden belirli kalıplarını öğrenip ikisinde de doğru sınıflandırma yapması hedefleniyor.
+6. Birleştirilmiş veri seti Kaggle notebook üzerinde output kısmına combined_dataset.npz adıyla kaydedilmiştir.
 
 
 # 3.	KULLANILAN YÖNTEMLER
