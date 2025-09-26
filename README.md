@@ -164,9 +164,11 @@ Modelin Genelleme Yeteneğinin Artırılması:
 
 ## Veri augmentasyonu (dönme, ölçekleme, parlaklık değişimi gibi) ve düzenleme teknikleri (dropout, early stopping) ile overfitting riski azaltılabilir.
 Sınıf dengesizlikleri ve yaş grubu farklılıkları göz önünde bulundurularak performans metrikleri ayrı ayrı raporlanabilir.
-Sonuç
+# SONUÇ
 
 Bu model, hem yetişkin hem çocuk göğüs röntgenlerinde pnömoni tespitinde başarılı bir başlangıç sağlamaktadır. Ancak, veri çeşitlendirmesi, transfer learning ve fine-tuning uygulamaları ile modelin doğruluk ve genelleme kapasitesi ileri çalışmalarda artırılabilir.
+
+# Kaggle Linki [MODELLEME (CNN) - Kaggle Notebook](https://www.kaggle.com/code/zdengltekin/pneumonia-detection-using-cnn-combining2-dataset/notebook#MODELLEME-(CNN))
 
 
 
