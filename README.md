@@ -56,7 +56,7 @@ Ayrıca iki veri setine ait test ve validation verileri birleştirilirken sıral
  ## 1. Veri Ön İşleme: 
 
   **CLAHE (Contrast Limited Adaptive Histogram Equalization):** ile görüntü kontrastı artırılır. Böylece akciğer dokusundaki küçük detaylar ve opasiteler daha belirgin hâle gelir.
-  **img_size** Modelin kolay bir şekilde öğrenmesi için tüm görüntüler 150x150 piksellik boyuta indirgenmiştir. Genel kabul sağlık verilerinde 224z224 kullanılmasıdır.
+  **img_size** Modelin kolay bir şekilde öğrenmesi için tüm görüntüler 150x150 piksellik boyuta indirgenmiştir. Genel kabul sağlık verilerinde 224x224 kullanılmasıdır.
   ## 2. Veri Arttırma(Data Augmentation)
 
 
