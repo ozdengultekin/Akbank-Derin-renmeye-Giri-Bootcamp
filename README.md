@@ -1,4 +1,9 @@
-# Akbank-Derin-Orenmeye-Giris-Bootcamp
+# Akbank-Derin-Ogrenmeye-Giris-Bootcamp
+
+# GİRİŞ
+
+Bu repo, Global AI Hub Python  Derin Öğrenmeye Giriş Bootcamp ı sürecinde bitirme projesini sunmak amacıyla oluşturulmuştur. 
+
 # PNÖMONİ NEDİR?
 
 <img width="857" height="482" alt="image" src="https://github.com/user-attachments/assets/4566816e-463b-41a5-a5bf-21c1c7f768b9" />
