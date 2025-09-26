@@ -129,9 +129,9 @@ Göğüs röntgenleri yüksek düzeyde karmaşık ve çok ince yapısal farklıl
 ### Sonuç
 Kullanılan derin öğrenme mimarisi, medikal görüntülerde görülen karmaşık paternleri yakalayabilmek, genelleme kabiliyetini artırmak ve aşırı öğrenmeyi engellemek amacıyla seçilmiştir. Bu yaklaşım sayesinde, göğüs röntgenlerinden pnömoni teşhisinde yüksek doğruluk elde edilmesi hedeflenmiştir.
 
-## 4. Model değerlendirmesinde: 
+## 4. MODEL DEĞERLENDİRME TEKNİKLERİ: 
 Accuracy, Loss grafikleri + Confusion Matrix 
-## 5.Grad-CAM (Gradient-weighted Class Activation Mapping)
+Grad-CAM (Gradient-weighted Class Activation Mapping)
 <img width="737" height="430" alt="image" src="https://github.com/user-attachments/assets/0fcba7e2-8061-4d5f-8f1b-906d7c1d5110" />
 
 ## 6. Hiperparametre Optimizasyonu: 
