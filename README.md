@@ -177,7 +177,7 @@ Bu model, hem yetişkin hem çocuk göğüs röntgenlerinde pnömoni tespitinde 
 
 # KAGGLE NOTEBOOK LİNKİ [MODELLEME (CNN) - Kaggle Notebook](https://www.kaggle.com/code/zdengltekin/pneumonia-detection-using-cnn-combining2-dataset/notebook#MODELLEME-(CNN))
 
-Projeme kaggle notebooktanda inceleyebilirsiniz. Projemi beğendiyseniz geliştirme ile ilgili önerileriniz, tavsiyeleriniz olursa bu platform üzerinde benimle paylaşabilir ve destek olmak isterseniz projemi oylayabilirisiniz.
+Projemi kaggle notebook tan da inceleyebilirsiniz. Projemi beğendiyseniz geliştirme ile ilgili önerileriniz, tavsiyeleriniz olursa bu platform üzerinde benimle paylaşabilir ve destek olmak isterseniz projemi oylayabilirisiniz.
 
 
 # TEŞEKKÜR
