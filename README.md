@@ -135,7 +135,7 @@ Accuracy, Loss grafikleri + Confusion Matrix
 Grad-CAM (Gradient-weighted Class Activation Mapping)
 <img width="737" height="430" alt="image" src="https://github.com/user-attachments/assets/0fcba7e2-8061-4d5f-8f1b-906d7c1d5110" />
 
-## 6. Hiperparametre Optimizasyonu: 
+## 5. Hiperparametre Optimizasyonu: 
 Bir önceki modelden farklı olarak sondaki katman azaltıldı.
 early_stop eklenmiştir. **Early stopping**, derin öğrenme eğitiminde sık kullanılan bir regularization (düzenleme) tekniğidir ve temel amacı modelin overfitting yapmasını önlemektir.
 Düzleştirme katmanında dropout değeri 0.3 e yükseltilmiştir. Bunun amacı, Modelin belli nöronlara aşırı bağımlı olmasını önlemek ve genelleme yeteneğini artırmak.
