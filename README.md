@@ -167,8 +167,7 @@ Eğitim setine daha fazla örnek eklenmesi ve sınıf dağılımının dengelenm
 Daha sonra model, çocuk verileri ile fine-tuning sürecine tabi tutulabilir.
 Bu yaklaşım sayesinde model, iki farklı dağılımdaki görselleri ayrı ayrı öğrenerek daha doğru sınıflama gerçekleştirebilir.
 Modelin Genelleme Yeteneğinin Artırılması:
-
-## Veri augmentasyonu (dönme, ölçekleme, parlaklık değişimi gibi) ve düzenleme teknikleri (dropout, early stopping) ile overfitting riski azaltılabilir.
+Veri augmentasyonu (dönme, ölçekleme, parlaklık değişimi gibi) ve düzenleme teknikleri (dropout, early stopping) ile overfitting riski azaltılabilir.
 Sınıf dengesizlikleri ve yaş grubu farklılıkları göz önünde bulundurularak performans metrikleri ayrı ayrı raporlanabilir.
 # SONUÇ
 
