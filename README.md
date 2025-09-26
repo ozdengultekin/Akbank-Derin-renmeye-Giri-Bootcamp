@@ -151,7 +151,7 @@ Düzleştirme katmanında dropout değeri 0.3 e yükseltilmiştir. Bunun amacı,
 <img width="841" height="257" alt="image" src="https://github.com/user-attachments/assets/98a3813b-4663-48ec-bf4b-35a4963a414a" />
 
 
-# GELECEK ÇALIŞMALAR İLE İLGİLİ ÖNERİLER¶
+# GELECEK ÇALIŞMALAR İLE İLGİLİ ÖNERİLER
 
 ## Mevcut Durum ve Sınırlamalar
 
